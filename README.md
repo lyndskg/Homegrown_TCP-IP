@@ -16,11 +16,11 @@
    - Implement the necessary components, such as socket creation, connection handling, and data transmission.
 5. Programming Language: C/C++
 6. Resources:
-   - Online tutorial: "TCP/IP Sockets Programming in C" on GeeksforGeeks
+   - Online tutorial: ["TCP/IP Sockets Programming in C" on GeeksforGeeks](https://www.geeksforgeeks.org/tcp-ip-programming-in-c/)
    - Books:
        - "TCP/IP Illustrated, Volume 1: The Protocols" by W. Richard Stevens
        - “Computer Networking: A Top-Down Approach” by James F. Kurose and Keith W. Ross
-     - Online Resources: Beej's Guide to Network Programming
+     - Online Resources: [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
      - GitHub Repo: lwIP
 7. Problem-solving: Document the challenges you faced during the implementation, such as handling network connections, managing packet loss, or ensuring data integrity.
    - Explain the strategies you employed to overcome these challenges and the reasoning behind your design decisions.
